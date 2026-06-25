@@ -73,7 +73,7 @@ export default function Index() {
             <div className="menu-card">
               <span className="menu-tag">Чаще всего</span>
               <img
-                src="https://images.unsplash.com/photo-1584568694244-14fbdf83bd30?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80"
+                src="https://cdn.poehali.dev/projects/90758e09-497b-4e45-89ea-b982942c7515/files/cbcd537c-1a8b-4567-a815-2491a4984dc6.jpg"
                 alt="Замена компрессора"
               />
               <div className="menu-card-body">
@@ -100,7 +100,7 @@ export default function Index() {
                 Срочно
               </span>
               <img
-                src="https://images.unsplash.com/photo-1610557892470-55d9e80c0bce?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80"
+                src="https://cdn.poehali.dev/projects/90758e09-497b-4e45-89ea-b982942c7515/files/b8049508-e6ed-4b83-8d9d-cde66da2d0d8.jpg"
                 alt="Заправка фреоном"
               />
               <div className="menu-card-body">
@@ -127,7 +127,7 @@ export default function Index() {
                 Популярное
               </span>
               <img
-                src="https://images.unsplash.com/photo-1556911220-bff31c812dba?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80"
+                src="https://cdn.poehali.dev/projects/90758e09-497b-4e45-89ea-b982942c7515/files/f2095e82-1e57-41d6-a79a-9f88aa68d613.jpg"
                 alt="Ремонт электроники"
               />
               <div className="menu-card-body">
